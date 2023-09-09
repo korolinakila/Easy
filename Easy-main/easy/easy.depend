@@ -1,0 +1,59 @@
+# depslib dependency file v1.0
+1693817262 source:c:\users\sch1561-it-21\desktop\easy\main.cpp
+	<iostream>
+	"easy.h"
+
+1693817216 c:\users\sch1561-it-21\desktop\easy\easy.h
+	<iostream>
+
+1693812889 source:c:\users\sch1561-it-21\desktop\easy\sum.cpp
+	"easy.h"
+
+1693813111 source:c:\users\sch1561-it-21\desktop\easy\raznost.cpp
+	"easy.h"
+
+1693817177 source:c:\users\sch1561-it-21\desktop\easy\func1.cpp
+	"easy.h"
+	<iostream>
+
+1693814913 source:c:\users\sch1561-it-21\desktop\easy\func2.cpp
+	"easy.h"
+	<iostream>
+
+1693817177 source:c:\users\sch1561-it-21\desktop\easy\func3.cpp
+	"easy.h"
+	<iostream>
+
+1693816869 source:c:\users\sch1561-it-21\desktop\easy\func11.cpp
+	"easy.h"
+	<iostream>
+
+1694251522 source:c:\users\ÌÀÒÂÅÉ\desktop\easy-main\easy\func1.cpp
+	"easy.h"
+	<iostream>
+
+1694255777 c:\users\ÌÀÒÂÅÉ\desktop\easy-main\easy\easy.h
+	<iostream>
+
+1694254157 source:c:\users\ÌÀÒÂÅÉ\desktop\easy-main\easy\func11.cpp
+	"easy.h"
+	<iostream>
+
+1694255777 source:c:\users\ÌÀÒÂÅÉ\desktop\easy-main\easy\func2.cpp
+	"easy.h"
+	<iostream>
+
+1693781400 source:c:\users\ÌÀÒÂÅÉ\desktop\easy-main\easy\raznost.cpp
+	"easy.h"
+
+1693781400 source:c:\users\ÌÀÒÂÅÉ\desktop\easy-main\easy\sum.cpp
+	"easy.h"
+
+1694255777 source:c:\users\ÌÀÒÂÅÉ\desktop\easy-main\easy\main.cpp
+	<iostream>
+	"easy.h"
+
+1694250446 source:c:\users\ÌÀÒÂÅÉ\desktop\easy-main\easy\func3.cpp
+	"easy.h"
+	<iostream>
+
